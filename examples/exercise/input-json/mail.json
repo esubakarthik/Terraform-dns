@@ -1,0 +1,7 @@
+{ 
+ "zone" : "example.com.",
+ "cname" : "test.exmaple.com.",
+ "name" : "suba",
+
+  "dns_record_type": "cname"
+}	
